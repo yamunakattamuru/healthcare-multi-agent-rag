@@ -1,0 +1,44 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Hypertension
+Domain: Cardiac
+Purpose: To provide educational information about blood pressure, risk factors, symptoms, and general monitoring concepts in a non-diagnostic format.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+What Hypertension Is
+Hypertension is the medical term for persistently high blood pressure. Blood pressure reflects the force of blood against the walls of the arteries. It is measured with two numbers, usually written as systolic over diastolic, such as 120/80 mmHg. Persistent elevation can place extra strain on the heart and blood vessels over time.
+
+What Blood Pressure Means
+Blood pressure is a common health marker because it reflects how hard the heart is working to push blood through the body. Higher readings may increase risk for heart disease and stroke. However, a single reading does not always tell the whole story, and repeated measurements are more informative.
+
+Common Risk Factors
+Risk factors include age, family history, excess body weight, high sodium intake, low physical activity, poor sleep, tobacco use, alcohol intake, and chronic stress. Some risk factors are modifiable, while others are not.
+
+Why Monitoring Matters
+Regular monitoring helps detect patterns and trends over time. Since hypertension may have no obvious symptoms, many people do not know their pressure is high until it is measured. Early awareness can support timely evaluation and prevention strategies.
+
+Possible Symptoms
+Some people experience headaches, dizziness, blurred vision, or unusual fatigue, but many people with hypertension feel nothing. This is why blood pressure checks are important even when a person feels well.
+
+General Lifestyle Approaches
+Lifestyle concepts include reducing excess sodium, eating a balanced diet, maintaining a healthy weight, exercising regularly, limiting alcohol, avoiding tobacco, managing stress, and prioritizing sleep. These general habits are often helpful, though they are not individualized medical advice.
+
+Blood Pressure Monitoring
+Monitoring may involve home measurements or checkups with a healthcare professional. A person should measure at rest, follow instructions consistently, and consider patterns over several readings rather than a single value.
+
+When Professional Evaluation May Be Needed
+Professional evaluation is appropriate if readings are repeatedly high, if symptoms such as chest pain or severe shortness of breath occur, or if there is risk for complications. This document does not provide individualized medication advice.
+
+Frequently Asked Questions
+1. Can hypertension happen without symptoms? Yes. It is often called a silent condition.
+2. Is one high reading enough to diagnose hypertension? Usually not. Repeated measurements are more informative.
+3. Can lifestyle changes help? Yes, general healthy habits can support blood pressure control in many people.
+4. Does salt affect blood pressure? Excess sodium intake can worsen blood pressure in some people.
+5. Can stress alone cause high blood pressure? Stress may contribute, but blood pressure is usually influenced by multiple factors.
+6. Should I check blood pressure at home? Home monitoring can be useful when used consistently and correctly.
+
+This document is educational and non-diagnostic. It is intended for demonstration only.

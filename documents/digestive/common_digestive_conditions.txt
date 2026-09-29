@@ -1,0 +1,38 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Common Digestive Conditions
+Domain: Digestive
+Purpose: To provide general educational information about several common digestive conditions and how symptoms may be managed conceptually.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+Acid Reflux
+Acid reflux occurs when stomach acid moves upward toward the esophagus. It may cause heartburn, sour taste, or throat discomfort. General triggers include large meals, certain foods, smoking, and lying down soon after eating.
+
+Constipation
+Constipation is a condition where bowel movements are infrequent, difficult, or hard to pass. Common factors include low fiber intake, dehydration, inactivity, changes in routine, and certain medications. General prevention includes hydration, fiber, and regular movement.
+
+Diarrhea
+Diarrhea is a condition where stool is loose or frequent. Causes may include infections, dietary changes, irritation, stress, and some medications. General supportive measures include hydration and rest, but persistent or severe diarrhea should be evaluated.
+
+Indigestion
+Indigestion is a general term for discomfort in the upper abdomen after eating. It may involve fullness, bloating, nausea, or discomfort. Food choices, eating pace, and stress can all influence symptoms.
+
+General Prevention Concepts
+Digestive health is often supported by balanced meals, hydration, regular movement, fiber intake, stress management, and good food hygiene. Recognizing patterns and avoiding repeated triggers can also help.
+
+When Professional Evaluation May Be Appropriate
+Professional evaluation is appropriate for severe pain, persistent symptoms, blood in stool, unexplained weight loss, difficulty swallowing, persistent vomiting, or symptoms lasting longer than expected. Such symptoms may require a broader assessment.
+
+Frequently Asked Questions
+1. Do all digestive problems need emergency care? No, many are mild and manageable, but severe or persistent symptoms need assessment.
+2. Can stress affect digestion? Yes, stress may influence gut comfort, appetite, and bowel habits.
+3. Is diarrhea always caused by infection? No. It may also be related to diet, medications, or other factors.
+4. Can constipation be prevented? Often yes, with fiber, hydration, and regular movement.
+5. Is acid reflux always serious? Not always, but frequent or worsening symptoms should be assessed.
+6. Should I self-diagnose indigestion? It is better to consider patterns and get a professional evaluation if the problem is recurrent or severe.
+
+This document is educational and not intended to replace diagnosis or individualized care.

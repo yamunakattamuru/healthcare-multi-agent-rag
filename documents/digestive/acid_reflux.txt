@@ -1,0 +1,38 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Acid Reflux
+Domain: Digestive
+Purpose: To explain general digestive symptoms, common triggers, lifestyle concepts, and when professional evaluation may be appropriate.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+What Acid Reflux Is
+Acid reflux occurs when stomach acid moves upward into the esophagus. This can cause a burning sensation, discomfort, or reflux symptoms after eating or lying down. Occasional symptoms may be common, but persistent symptoms deserve attention.
+
+Common Symptoms
+Common symptoms include heartburn, sour or bitter taste, chest discomfort, throat irritation, and coughing after meals. Some people also feel bloating or nausea. These symptoms can overlap with other conditions, so self-diagnosis is not recommended.
+
+General Factors That May Worsen Symptoms
+Meals that are large, fatty, spicy, or acidic may worsen reflux in some people. Lying down soon after eating, certain medications, smoking, and excess weight may also contribute. Stress and irregular eating patterns may play a role for some people.
+
+General Lifestyle Concepts
+General supportive habits may include eating smaller meals, avoiding lying down soon after eating, and identifying personal triggers. Maintaining a healthy weight and avoiding tobacco may also help. This document does not provide medication dosage.
+
+Occasional Versus Persistent Symptoms
+Occasional symptoms may be mild and less concerning, while persistent or worsening symptoms may need evaluation. Frequent heartburn or symptoms affecting daily life should prompt discussion with a qualified healthcare professional.
+
+When Professional Evaluation May Be Appropriate
+Professional evaluation is appropriate if symptoms are frequent, severe, waking a person from sleep, or accompanied by trouble swallowing, weight loss, vomiting, or chest pain. Red flags should be assessed promptly.
+
+Frequently Asked Questions
+1. Is heartburn always acid reflux? Not necessarily. Chest burning can occur for other reasons too.
+2. Can food choices affect reflux? Yes. Fatty, spicy, or acidic foods may worsen symptoms in some people.
+3. Does lying down right after eating matter? It can. Many people find it helpful to wait before lying down.
+4. Is reflux always caused by diet alone? No. It can be influenced by multiple factors.
+5. When should I see a professional? If symptoms are frequent or worsening, or if there are warning signs, evaluation is appropriate.
+6. Are all reflux symptoms serious? Not necessarily, but persistent symptoms deserve attention.
+
+This educational summary is intended for general learning and should not replace medical evaluation.

@@ -1,0 +1,42 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Common Respiratory Infections
+Domain: Respiratory
+Purpose: To explain general concepts related to respiratory infections, symptoms, prevention, and when an evaluation may be appropriate.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+What Respiratory Infections Are
+Respiratory infections involve the nose, throat, sinuses, airways, or lungs. They can range from mild illnesses to more significant problems affecting breathing. Because symptoms overlap, a person should not assume a diagnosis without a professional evaluation.
+
+Upper and Lower Respiratory Infections
+Upper respiratory infections often affect the nose, throat, sinuses, and voice box. Examples include common colds and throat irritation. Lower respiratory infections involve the airways or lungs and may include bronchitis or pneumonia-like illness. These conditions can cause different severity and symptoms.
+
+Common Symptoms
+Common symptoms include coughing, sneezing, sore throat, runny nose, nasal congestion, fever, body aches, fatigue, chest discomfort, and shortness of breath. Some infections are mild and improve with rest and hydration, while others may cause more serious breathing problems.
+
+General Causes
+Respiratory infections are often caused by viruses or bacteria, though exposure to irritants can also aggravate the airways. Person-to-person spread is common in crowded spaces or during seasonal outbreaks. Good hygiene and thoughtful health habits can reduce exposure.
+
+Spread and Prevention
+General prevention concepts include regular handwashing, covering coughs and sneezes, cleaning shared surfaces, staying home when very ill, and avoiding close contact with others during contagious periods. Vaccination may help reduce risk for some respiratory infections as part of general preventive care.
+
+General Supportive Health Measures
+Supportive measures may include rest, hydration, a balanced diet, and a comfortable environment. People should avoid smoking or secondhand smoke, and anyone with breathing difficulties should seek professional help. This document does not make unsupported claims about specific treatments.
+
+When Professional Medical Care May Be Appropriate
+Professional medical care may be appropriate if symptoms are severe, worsening, or accompanied by fever, persistent shortness of breath, chest pain, confusion, dehydration, or a prolonged illness. Young children, older adults, and people with chronic health problems may need extra attention.
+
+Frequently Asked Questions
+1. Are all respiratory infections caused by viruses? No. Some are viral and some are bacterial, but symptoms can overlap.
+2. Can a runny nose and cough happen together? Yes, this is common in upper respiratory infections.
+3. Do chest symptoms always mean pneumonia? No. Chest discomfort can occur for many reasons, including irritation, cough-related strain, or more serious conditions that require evaluation.
+4. Does rest alone always help? Rest and hydration may help mild infections, but not every condition improves without professional assessment.
+5. Can smoking worsen respiratory infections? Yes, tobacco smoke can irritate the airways and increase risk of complications.
+6. When should I seek urgent care? Seek urgent care for persistent or severe breathing difficulties, chest pain, or blue lips or fingertips.
+
+This document is educational and non-diagnostic. It is intended only for hackathon demonstration use.
+

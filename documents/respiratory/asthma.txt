@@ -1,0 +1,41 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Asthma
+Domain: Respiratory
+Purpose: To provide general educational information about asthma symptoms, triggers, evaluation, and prevention concepts for a hackathon demonstration.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+What Asthma Is
+Asthma is a chronic inflammatory condition that can affect the airways in the lungs. The airways may become narrowed, inflamed, or overly sensitive to triggers. This can lead to episodes of wheezing, coughing, shortness of breath, or chest tightness. Asthma symptoms can vary from person to person and can change over time.
+
+Common Symptoms
+Common symptoms include wheezing, coughing, shortness of breath, chest tightness, and difficulty speaking in full sentences during a flare-up. Some people experience symptoms during exercise, at night, or after exposure to certain environmental irritants. Symptoms can have multiple causes, and this document does not diagnose asthma.
+
+Common Triggers
+Common asthma triggers include pollen, dust, pet dander, mold, smoke, cold air, strong smells, viral infections, and vigorous physical activity. Household or outdoor environmental exposures may also worsen symptoms. Identifying triggers can help people reduce exposure and better understand patterns.
+
+General Prevention Concepts
+A general prevention approach includes reducing exposure to smoke, improving indoor air quality, keeping living spaces clean, managing allergies when appropriate, and avoiding known triggers. Regular routines, stress management, and good communication with healthcare professionals can support asthma awareness and planning.
+
+How Asthma Is Evaluated
+Evaluation often includes a discussion of symptoms, trigger history, breathing concerns, medical history, and physical examination. A clinician may ask about symptom patterns, frequency, and severity. No single test confirms asthma in every case, and a proper diagnosis requires qualified medical assessment.
+
+General Asthma Management Concepts
+General management may include reducing triggers, learning warning signs, and following personalized plans created with a qualified healthcare professional. People with asthma may also use self-management strategies, but this document does not provide individualized treatment or medication dosage.
+
+When Professional Medical Evaluation May Be Needed
+Professional medical evaluation is appropriate when symptoms are frequent, worsening, accompanied by severe breathing difficulty, or causing concern. Warning signs such as severe shortness of breath, bluish lips or fingertips, chest pain, or sudden worsening symptoms may need urgent assessment.
+
+Frequently Asked Questions
+1. Can asthma be caused by stress? Stress can sometimes worsen symptoms or make them feel more intense, but it is not the only cause.
+2. Is wheezing always caused by asthma? No. Wheezing can have multiple causes, including allergies, infections, airway irritation, or other conditions.
+3. Can exercise trigger asthma? Yes, exercise can trigger symptoms in some people, but not everyone with asthma experiences this pattern.
+4. Is asthma curable? It is often managed rather than cured, but many people live well with asthma when symptoms are recognized and managed appropriately.
+5. Can air pollution worsen asthma? Yes, poor air quality can irritate airways and worsen breathing symptoms in some people.
+6. Do all people with asthma have the same symptoms? No. Symptoms vary in type, severity, and frequency from person to person.
+
+This document is educational and non-diagnostic. It is intended for a hackathon demonstration only.

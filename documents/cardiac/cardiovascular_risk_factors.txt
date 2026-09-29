@@ -1,0 +1,41 @@
+SYNTHETIC HEALTHCARE EDUCATIONAL DOCUMENT
+Title: Cardiovascular Risk Factors
+Domain: Cardiac
+Purpose: To explain general cardiovascular risk factors and prevention concepts in accessible educational language.
+
+Disclaimer:
+"This document contains synthetic educational content created
+for a hackathon demonstration. It is not a medical diagnosis,
+medical prescription, or replacement for advice from a qualified
+healthcare professional."
+
+Modifiable Risk Factors
+Many cardiovascular risk factors can be influenced by lifestyle. These include tobacco exposure, physical inactivity, poor diet, excess body weight, high blood pressure, high cholesterol, excessive alcohol intake, and chronic stress.
+
+Non-Modifiable Risk Factors
+Some risk factors cannot be changed, such as age, sex-based differences, family history, and genetic predisposition. These factors may increase risk even when a person is otherwise healthy.
+
+Blood Pressure and Cholesterol
+Elevated blood pressure and abnormal cholesterol may increase strain on blood vessels and the heart over time. Regular checkups can help monitor these markers.
+
+Tobacco Exposure and Physical Inactivity
+Tobacco exposure is a major cardiovascular concern, and a sedentary lifestyle can increase risk. Regular movement and avoidance of smoke are general prevention concepts.
+
+Diet and Body Weight
+Diet patterns rich in whole foods and low in excess sugar and processed foods may support cardiovascular health. Body weight can affect pressure, blood sugar, and inflammation, which are relevant to heart health.
+
+Family History and Age
+A family history of cardiovascular disease may increase risk. Age also matters because blood vessel and heart function can change over time.
+
+General Prevention Concepts
+Prevention frequently includes regular physical activity, balanced eating, avoiding tobacco, sleep support, and managing chronic stress. These are broad lifestyle principles, not personalized medical recommendations.
+
+Frequently Asked Questions
+1. Is hypertension a risk factor for heart disease? Yes, high blood pressure is a major risk factor.
+2. Are all risk factors modifiable? No. Some, like age and family history, are not.
+3. Does cholesterol matter? Yes. Abnormal cholesterol can contribute to vascular risk.
+4. Can poor sleep influence heart health? Yes, poor sleep may worsen stress and everyday health patterns.
+5. Is a healthy weight enough on its own? It helps, but diet, smoking exposure, blood pressure, and activity level all matter.
+6. Can young people still benefit from prevention? Yes. Healthy habits are useful at every age.
+
+This educational summary is intended to support awareness and should not replace professional advice.
